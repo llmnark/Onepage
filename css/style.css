@@ -147,7 +147,7 @@ footer>p>a:hover{
         font-size: 14px;
     }
     nav>ul>li{
-        padding: 0px 15px 0px 15px;
+        padding: 0px 10px 0px 10px;
     }
     section{
         padding-top: 50px;
@@ -167,4 +167,5 @@ footer>p>a:hover{
             width: 80%;
             max-width: 100%;
     }
+
 }
