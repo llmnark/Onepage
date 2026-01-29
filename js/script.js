@@ -1,6 +1,6 @@
-const img1 = document.getElementById("img1");
-const img2 = document.getElementById("img1");
-const img3 = document.getElementById("img1");
+const img1 = document.getElementById("s2img1");
+const img2 = document.getElementById("s2img2");
+const img3 = document.getElementById("s2img3");
 
 img1.addEventListener('mouseenter', () => {
     img1.src = "img/digits_img_t.jpg";
@@ -21,4 +21,5 @@ img3.addEventListener('mouseenter', () => {
 });
 img3.addEventListener('mouseleave', () => {
     img3.src = "img/flagged_tile.jpg";
+
 });
