@@ -128,12 +128,6 @@ footer>p>a:hover{
 #section3>#img1{
         width: 35%;
         max-width: 100%;
-        background-image: url('../img/digits_img_t.jpg');
-}
-#section3>#img1:hover{
-        display: block;
-        opacity: 0%;
-        background-size: cover;
 }
 #section3>#img2{
         width: 45%;
@@ -175,4 +169,5 @@ footer>p>a:hover{
     }
 
 }
+
 
