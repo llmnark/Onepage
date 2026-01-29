@@ -17,11 +17,12 @@ img2.addEventListener('mouseleave', () => {
 });
 
 img3.addEventListener('mouseenter', () => {
-    img3.src = "img/flagged_tile_t.jpg";
+    img3.src = "img/flagged_tile_img_t.jpg";
 });
 img3.addEventListener('mouseleave', () => {
-    img3.src = "img/flagged_tile.jpg";
+    img3.src = "img/flagged_tile_img.jpg";
 
 });
+
 
 
